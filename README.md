@@ -8,3 +8,16 @@
 | 项目                                                        | github地址                                                   |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | [no001.基于SSM框架的教务管理系统](https://github.com/Descartes007/no001_EducationalManagementSys) | https://github.com/Descartes007/no001_EducationalManagementSys         |
+| [no002.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no003.基于SSM框架的高校宿舍管理系统](https://github.com/Descartes007/no003_DormitoryManageSys) | https://github.com/Descartes007/no003_DormitoryManageSys         |
+| [no004.基于SSM框架的机票预定系统](https://github.com/Descartes007/no004_TicketOrderSys) | https://github.com/Descartes007/no004_TicketOrderSys         |
+| [no005.基于微信小程序的网上书城系统](https://github.com/Descartes007/no005_OnlineBookMallSys) | https://github.com/Descartes007/no005_OnlineBookMallSys         |
+| [no006.基于SSM的家纺用品网上商城购物系统](https://github.com/Descartes007/no006_OnlineMallShoppingManagementSys) | https://github.com/Descartes007/no006_OnlineMallShoppingManagementSys         |
+
+| [no007.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no008.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no009.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no010.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no011.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no012.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no013.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
