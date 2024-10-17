@@ -56,4 +56,9 @@
 | [no047.基于JSP+Servlet实现的新闻发布系统](https://github.com/Descartes007/no047_NewsReleaseManagementSys) | https://github.com/Descartes007/no047_NewsReleaseManagementSys         |
 | [no048.基于JSP+Servlet实现的学籍管理系统](https://github.com/Descartes007/no048_StudentStatusManagementSys) | https://github.com/Descartes007/no048_StudentStatusManagementSys         |
 | [no049.基于JSP+Servlet实现的java蛋糕甜品商店管理系统](https://github.com/Descartes007/no049_CakeAndDessertShopManagementSys) | https://github.com/Descartes007/no049_CakeAndDessertShopManagementSys         |
+| [no050.基于JSP+Servlet的宠物管理系统](https://github.com/Descartes007/no050_PetManagementSys) | https://github.com/Descartes007/no050_PetManagementSys         |
+| [no051.基于JSP+Servlet实现的个人音乐网站系统](https://github.com/Descartes007/no051_PersonalMusicSys) | https://github.com/Descartes007/no051_PersonalMusicSys         |
+| [no052.基于JSP+Servlet实现的网上体育商城](https://github.com/Descartes007/no052_OnlineSportingGoodsMallSys) | https://github.com/Descartes007/no052_OnlineSportingGoodsMallSys         |
+| [no053.基于JSP+Servlet实现的汽车管理系统](https://github.com/Descartes007/no053_AutomobileManagementSys) | https://github.com/Descartes007/no053_AutomobileManagementSys         |
+| [no054.基于JSP+Servlet实现的汽车租赁系统](https://github.com/Descartes007/no054_CarRentalSys) | https://github.com/Descartes007/no054_CarRentalSys         |
 
