@@ -17,7 +17,10 @@
 | [no008.基于SSM的在线学习系统](https://github.com/Descartes007/no008_StudyManagerSys) | https://github.com/Descartes007/no008_StudyManagerSys         |
 | [no009.基于SSM的教务管理系统](https://github.com/Descartes007/no009_EducationalManagerSys) | https://github.com/Descartes007/no009_EducationalManagerSys         |
 | [no010.基于SSM的外卖点餐小程序（Uniapp实现）](https://github.com/Descartes007/no010_TakeAwaySys) | https://github.com/Descartes007/no010_TakeAwaySys         |
-
-| [no011.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
-| [no012.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
-| [no013.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
+| [no011.基于JSP+Servlet的心理咨询预约系统](https://github.com/Descartes007/no011_MindSubscribeSys) | https://github.com/Descartes007/no011_MindSubscribeSys         |
+| [no012.基于SSM的宿舍管理系统](https://github.com/Descartes007/no012_DormitoryManageSys) | https://github.com/Descartes007/no012_DormitoryManageSys         |
+| [no013.基于SSM框架的三农在线培训系统](https://github.com/Descartes007/no013_OnlineCourseManagementSys) | https://github.com/Descartes007/no013_OnlineCourseManagementSys         |
+| [no014.基于SpringBoot的影院管理系统](https://github.com/Descartes007/no014_CinemaMovieManagementSys) | https://github.com/Descartes007/no014_CinemaMovieManagementSys         |
+| [no015.基于SSM框架的汽车租赁系统](https://github.com/Descartes007/no016_CarRentalManagementSys) | https://github.com/Descartes007/no016_CarRentalManagementSys         |
+| [no016.基于微信小程序校园失物招领系统](https://github.com/Descartes007/no017_LostAndFoundSys) | https://github.com/Descartes007/no017_LostAndFoundSys         |
+| [no017.基于微信小程序+SpringBoot的乡村特产推广管理系统](https://github.com/Descartes007/no018_RuralSpecialtyPromotionManagementSys) | https://github.com/Descartes007/no018_RuralSpecialtyPromotionManagementSys         |
