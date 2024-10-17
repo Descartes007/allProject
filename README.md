@@ -48,4 +48,12 @@
 | [no039.基于JSP+Servlet实现的火车站售票系统](https://github.com/Descartes007/no040_RailwayStationTicketingSys) | https://github.com/Descartes007/no040_RailwayStationTicketingSys         |
 | [no040.基于JSP+Servlet的停车场管理系统](https://github.com/Descartes007/no041_ParkingManagementSys) | https://github.com/Descartes007/no041_ParkingManagementSys         |
 | [no041.基于JavaWeb的相册管理系统](https://github.com/Descartes007/no042_AlbumManagementSys) | https://github.com/Descartes007/no042_AlbumManagementSys         |
-| [no042.基于JSP+Servlet实现的学生信息管理系统](https://github.com/Descartes007/no043_StudentInformationManagementsys) | https://github.com/Descartes007/no043_StudentInformationManagementsys         |
+| [no042.基于JSP+Servlet实现的在线学习系统](https://github.com/Descartes007/no042_OnlineLearningSys) | https://github.com/Descartes007/no042_OnlineLearningSys         |
+| [no043.基于JSP+Servlet实现的图书管理系统](https://github.com/Descartes007/no043_LibraryManagementSys) | https://github.com/Descartes007/no043_LibraryManagementSys         |
+| [no044.基于JSP+Servlet实现的网上商城系统](https://github.com/Descartes007/no044_OnlineMallSys) | https://github.com/Descartes007/no044_OnlineMallSys         |
+| [no045.基于JSP+Servlet实现的网上选课系统](https://github.com/Descartes007/no045_OnlineCourseSelectionSys) | https://github.com/Descartes007/no045_OnlineCourseSelectionSys         |
+| [no046.基于JSP+Servlet实现的校园失物招领系统](https://github.com/Descartes007/no046_CampusLostAndFoundManagementSys) | https://github.com/Descartes007/no046_CampusLostAndFoundManagementSys         |
+| [no047.基于JSP+Servlet实现的新闻发布系统](https://github.com/Descartes007/no047_NewsReleaseManagementSys) | https://github.com/Descartes007/no047_NewsReleaseManagementSys         |
+| [no048.基于JSP+Servlet实现的学籍管理系统](https://github.com/Descartes007/no048_StudentStatusManagementSys) | https://github.com/Descartes007/no048_StudentStatusManagementSys         |
+| [no049.基于JSP+Servlet实现的java蛋糕甜品商店管理系统](https://github.com/Descartes007/no049_CakeAndDessertShopManagementSys) | https://github.com/Descartes007/no049_CakeAndDessertShopManagementSys         |
+
