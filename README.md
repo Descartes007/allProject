@@ -15,9 +15,9 @@
 | [no006.基于SSM的家纺用品网上商城购物系统](https://github.com/Descartes007/no006_OnlineMallShoppingManagementSys) | https://github.com/Descartes007/no006_OnlineMallShoppingManagementSys         |
 | [no007.基于SSM框架的校园二手市场交易平台](https://github.com/Descartes007/no007_CampusSecondHandTradeSys) | https://github.com/Descartes007/no007_CampusSecondHandTradeSys         |
 | [no008.基于SSM的在线学习系统](https://github.com/Descartes007/no008_StudyManagerSys) | https://github.com/Descartes007/no008_StudyManagerSys         |
+| [no009.基于SSM的教务管理系统](https://github.com/Descartes007/no009_EducationalManagerSys) | https://github.com/Descartes007/no009_EducationalManagerSys         |
+| [no010.基于SSM的外卖点餐小程序（Uniapp实现）](https://github.com/Descartes007/no010_TakeAwaySys) | https://github.com/Descartes007/no010_TakeAwaySys         |
 
-| [no009.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
-| [no010.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
 | [no011.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
 | [no012.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
 | [no013.基于SSM框架的就业管理系统](https://github.com/Descartes007/no002_EmploymentManageSys) | https://github.com/Descartes007/no002_EmploymentManageSys         |
