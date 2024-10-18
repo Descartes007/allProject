@@ -48,4 +48,10 @@
 | [no039.基于JSP+Servlet实现的火车站售票系统](https://github.com/Descartes007/no040_RailwayStationTicketingSys) | https://github.com/Descartes007/no040_RailwayStationTicketingSys         |
 | [no040.基于JSP+Servlet的停车场管理系统](https://github.com/Descartes007/no041_ParkingManagementSys) | https://github.com/Descartes007/no041_ParkingManagementSys         |
 | [no041.基于JavaWeb的相册管理系统](https://github.com/Descartes007/no042_AlbumManagementSys) | https://github.com/Descartes007/no042_AlbumManagementSys         |
+| [no042.基于JSP+Servlet实现的学生信息管理系统](https://github.com/Descartes007/no043_StudentInformationManagementsys) | https://github.com/Descartes007/no043_StudentInformationManagementsys         |
+| [no043.基于JSP+Servlet实现的学生信息管理系统](https://github.com/Descartes007/no044_StudentInformationSys) | https://github.com/Descartes007/no044_StudentInformationSys         |
+| [no044.基于JSP+Servlet的在线学习系统](https://github.com/Descartes007/no045_OnlineLearningSys) | https://github.com/Descartes007/no045_OnlineLearningSys         |
+| [no045.基于JSP+Servlet实现的图书管理系统](https://github.com/Descartes007/no046_LibraryManagementSys) | https://github.com/Descartes007/no046_LibraryManagementSys         |
+| [no046.基于JSP+Servlet实现的网上商城系统](https://github.com/Descartes007/no047_OnlineMallSys) | https://github.com/Descartes007/no047_OnlineMallSys         |
+
 
