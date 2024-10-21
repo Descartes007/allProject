@@ -55,5 +55,16 @@
 | [no046.基于JSP+Servlet实现的网上商城系统](https://github.com/Descartes007/no047_OnlineMallSys) | https://github.com/Descartes007/no047_OnlineMallSys         |
 | [no047.基于JSP+Servlet实现的网上选课系统](https://github.com/Descartes007/no048_OnlineCourseSelectionSys) | https://github.com/Descartes007/no048_OnlineCourseSelectionSys         |
 | [no048.基于JSP+Servlet实现的校园失物招领系统](https://github.com/Descartes007/no049_CampusLostAndFoundManagementSys) | https://github.com/Descartes007/no049_CampusLostAndFoundManagementSys         |
-
+| [no049.基于SSM框架实现的景区宣传系统](https://github.com/Descartes007/no050_ScenicAreaPublicitySys) | https://github.com/Descartes007/no050_ScenicAreaPublicitySys         |
+| [no050.基于SSM框架的超市进销库存管理系统](https://github.com/Descartes007/no051_SupermarketManagerSys) | https://github.com/Descartes007/no051_SupermarketManagerSys         |
+| [no051.基于SpringBoot框架实现的养老院管理系统](https://github.com/Descartes007/no052_NursingHomeManagementSys) | https://github.com/Descartes007/no052_NursingHomeManagementSys         |
+| [no052.基于微信小程序+SSM的图书借还管理系统](https://github.com/Descartes007/no053_BookLoanAndReturnManagementSys) | https://github.com/Descartes007/no053_BookLoanAndReturnManagementSys         |
+| [no053.基于SpringBoot框架实现的校园求职招聘系统](https://github.com/Descartes007/no054_CampusJobSearchAndRecruitmentSys) | https://github.com/Descartes007/no054_CampusJobSearchAndRecruitmentSys         |
+| [no053.基于SpringBoot框架实现的房屋租赁系统](https://github.com/Descartes007/no054_CampusJobSearchAndRecruitmentSys) | https://github.com/Descartes007/no054_CampusJobSearchAndRecruitmentSys         |
+| [no054.基于SpringBoot框架实现的房屋租赁系统](https://github.com/Descartes007/no055_HouseRentalSys) | https://github.com/Descartes007/no055_HouseRentalSys         |
+| [no055.基于SpringBoot框架实现的房屋租赁系统](https://github.com/Descartes007/no055_HouseRentalSys) | https://github.com/Descartes007/no055_HouseRentalSys         |
+| [no056.基于SpringBoot框架实现的旅游网站](https://github.com/Descartes007/no056_TourismSys) | https://github.com/Descartes007/no056_TourismSys         |
+| [no057.基于SpringBoot框架实现的网上点餐系统](https://github.com/Descartes007/no057_OnlineOrderingSys) | https://github.com/Descartes007/no057_OnlineOrderingSys         |
+| [no058.基于SpringBoot框架的图书馆管理系统](https://github.com/Descartes007/no058_LibraryManagementSys) | https://github.com/Descartes007/no058_LibraryManagementSys         |
+| [no059.基于SpringBoot框架的足球青训俱乐部管理系统](https://github.com/Descartes007/no059_FootballYouthClubManagementSys) | https://github.com/Descartes007/no059_FootballYouthClubManagementSys         |
 
