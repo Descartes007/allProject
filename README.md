@@ -53,5 +53,7 @@
 | [no044.基于JSP+Servlet的在线学习系统](https://github.com/Descartes007/no045_OnlineLearningSys) | https://github.com/Descartes007/no045_OnlineLearningSys         |
 | [no045.基于JSP+Servlet实现的图书管理系统](https://github.com/Descartes007/no046_LibraryManagementSys) | https://github.com/Descartes007/no046_LibraryManagementSys         |
 | [no046.基于JSP+Servlet实现的网上商城系统](https://github.com/Descartes007/no047_OnlineMallSys) | https://github.com/Descartes007/no047_OnlineMallSys         |
+| [no047.基于JSP+Servlet实现的网上选课系统](https://github.com/Descartes007/no048_OnlineCourseSelectionSys) | https://github.com/Descartes007/no048_OnlineCourseSelectionSys         |
+| [no048.基于JSP+Servlet实现的校园失物招领系统](https://github.com/Descartes007/no049_CampusLostAndFoundManagementSys) | https://github.com/Descartes007/no049_CampusLostAndFoundManagementSys         |
 
 
