@@ -71,4 +71,8 @@
 | [no063.基于SpringBoot框架实现的电影评论网站系统](https://github.com/Descartes007/no063_FilmReviewWebsiteSys) | https://github.com/Descartes007/no063_FilmReviewWebsiteSys         |
 | [no064.基于SpringBoot框架实现的汽车票网上预订系统](https://github.com/Descartes007/no064_BusTicketOnlineBookingSys) | https://github.com/Descartes007/no064_BusTicketOnlineBookingSys         |
 | [no065.基于SpringBoot框架实现的个人理财系统](https://github.com/Descartes007/no065_PersonalFinanceSys) | https://github.com/Descartes007/no065_PersonalFinanceSys         |
-
+| [no066.基于SpringBoot框架实现的论坛网站](https://github.com/Descartes007/no066_ForumWebsite) | https://github.com/Descartes007/no066_ForumWebsite         |
+| [no067.基于SpringBoot框架实现的靓车汽车销售网站](https://github.com/Descartes007/no067_CarSalesWebsite) | https://github.com/Descartes007/no067_CarSalesWebsite         |
+| [no068.基于SpringBoot框架实现的学生宿舍信息系统](https://github.com/Descartes007/no068_StudentDormitoryInformationSys) | https://github.com/Descartes007/no068_StudentDormitoryInformationSys         |
+| [no069.基于SpringBoot+vue框架实现的音乐网站](https://github.com/Descartes007/no069_MusicWebsite) | https://github.com/Descartes007/no069_MusicWebsite         |
+| [no070.基于SpringBoot实现的音乐分享平台](https://github.com/Descartes007/no070_MusicSharingPlatform) | https://github.com/Descartes007/no070_MusicSharingPlatform         |
