@@ -76,3 +76,8 @@
 | [no068.基于SpringBoot框架实现的学生宿舍信息系统](https://github.com/Descartes007/no068_StudentDormitoryInformationSys) | https://github.com/Descartes007/no068_StudentDormitoryInformationSys         |
 | [no069.基于SpringBoot+vue框架实现的音乐网站](https://github.com/Descartes007/no069_MusicWebsite) | https://github.com/Descartes007/no069_MusicWebsite         |
 | [no070.基于SpringBoot实现的音乐分享平台](https://github.com/Descartes007/no070_MusicSharingPlatform) | https://github.com/Descartes007/no070_MusicSharingPlatform         |
+| [no071.基于SpringBoot框架实现的学生考勤管理系统](https://github.com/Descartes007/no071_StudentAttendanceManagementSys
+) | https://github.com/Descartes007/no071_StudentAttendanceManagementSys
+         |
+| [no072.Python+Vue3前后端分离图书管理系统](https://github.com/Descartes007/no072_BookManagementSys) | https://github.com/Descartes007/no072_BookManagementSys         |
+
