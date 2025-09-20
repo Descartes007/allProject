@@ -79,4 +79,7 @@
 | [no071.基于SpringBoot框架实现的学生考勤管理系统](https://github.com/Descartes007/no071_StudentAttendanceManagementSys) | https://github.com/Descartes007/no071_StudentAttendanceManagementSys         |
 | [no072.Python+Vue3前后端分离图书管理系统](https://github.com/Descartes007/no072_BookManagementSys) | https://github.com/Descartes007/no072_BookManagementSys         |
 | [no073.Python+Vue3前后端分离汽车租赁管理系统](https://github.com/Descartes007/no073_CarRentalManagementSys) | https://github.com/Descartes007/no073_CarRentalManagementSys         |
+| [no074.基于SSM实现的缪桦工程管理系统](https://github.com/Descartes007/no074_ProjectManagementSys) | https://github.com/Descartes007/no074_ProjectManagementSys         |
+| [no075.基于JSP+Servlet汽车4s点管理系统](https://github.com/Descartes007/no075_Car4SStoreManagementSys) | https://github.com/Descartes007/no075_Car4SStoreManagementSys         |
+| [no076.Python+Vue3前后端分离汽车租赁管理系统](https://github.com/Descartes007/no073_CarRentalManagementSys) | https://github.com/Descartes007/no073_CarRentalManagementSys         |
 
